@@ -8,4 +8,4 @@ Online participants completed two sessions of a picture matching-and-naming task
 Analyses scripts and data can be found in Data&Analysis folder. 
 Code for online tasks used in Study 1 (two sessions separated by minutes) and for tasks used in Study 2 (a week gap between sessions) are found in folders with self-explanatory names. 
 
-This paper has now been published at the Journal of Experimental Psychology: Learning, Memory, and Cognition (https://doi.org/10.1037/xlm0000774). A pre-print can be found as a pdf file here :) 
+This paper has now been published at the Journal of Experimental Psychology: Learning, Memory, and Cognition (https://doi.org/10.1037/xlm0000774). A pre-print cis available here :) 
